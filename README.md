@@ -1,2 +1,2 @@
-# Exercism-solution
+# Exercism
 soluciones de exercism.io
